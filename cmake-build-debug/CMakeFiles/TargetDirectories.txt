@@ -1,0 +1,3 @@
+C:/AmbienteDeDesenvolvimento/C_Projects/gps_driver/cmake-build-debug/CMakeFiles/gps_driver.dir
+C:/AmbienteDeDesenvolvimento/C_Projects/gps_driver/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/AmbienteDeDesenvolvimento/C_Projects/gps_driver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
